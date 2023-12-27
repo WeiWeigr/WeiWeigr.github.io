@@ -1,6 +1,6 @@
   function hreRadom(){
 		        var oHref=new Array(
-		        "https://cn.bing.com/"
+		        "https://weixin.qq.com/"
 		      
 		     );
 			 var currindex=Math.round(Math.random()*0);
